@@ -51,7 +51,6 @@ To evaluate and compare the effectiveness of traditional and ensemble learning a
 - Recall  
 - F1-score  
 - Log Loss  
-- ROC AUC Score  
 
 ---
 
@@ -66,6 +65,6 @@ To evaluate and compare the effectiveness of traditional and ensemble learning a
 ## 📬 Contact
 
 For any questions, feel free to reach out:  
-✉️ hande.kubilay@example.com
+✉️ hande.kubilay35@gmail.com
 
 ---
