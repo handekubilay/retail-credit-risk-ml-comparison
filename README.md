@@ -57,8 +57,8 @@ To evaluate and compare the effectiveness of traditional and ensemble learning a
 ## 📁 Files
 
 - `README.md` – Project overview  
-- `codesonhali (1).ipynb` – Main notebook  
-- `codesonhali (1)_files/` – Images used in the notebook  
+- `credit_risk_ml_thesis.ipynb` – Main notebook  
+- `credit_risk_ml_thesis_files/` – Images used in the notebook  
 
 ---
 
